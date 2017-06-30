@@ -8,10 +8,12 @@
   background-image:linear-gradient(360deg,#841617, #660000);
   padding-top:10px;
   padding-bottom: 10px;
+  text-shadow: 3px 3px 3px #cccccc;
 }
 
 .project-tagline  {
   margin: 0px;
+  text-shadow: 2px 2px 2px #cccccc;
 }
 
 .level {
@@ -31,14 +33,65 @@
   text-align: left;
 }
 
+.page-footer{
+  position: fixed;
+  height: 120px;
+  width: 100%;
+  bottom: 0px;
+  align-items: center;
+}
+
 .site-footer{
   position: fixed;
-  height: 170px;
+  height: 120px;
   width: 100%;
-  background-color: #CCCCCC;
-  
+  background-color: #dedede;
+  bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
 }
-img {
+
+.dsl-logo{
+  text-align: center;
+  float: left;
+  width: 33%;
+  height: 120px;
+}
+
+.righttwocolumns{
+  
+  width: 67%;
+  height: 120px;
+  float: right;
+}
+
+.footercredits{
+ 
+  text-align: center;
+  width: 50%;
+  height: 120px;
+  float: left;
+  vertical-align: center;
+}
+
+
+.libraries-logo{
+  text-align: center;
+  width: 50%;
+  height: 120px;
+  float: right;
+}
+
+a:link{
+  color: #2378aa;  
+}
+
+a:hover{
+  color: #880000;
+}
+
+.maincontent img{
   display:block;
   margin-top: 10px!important;
   margin-bottom: 10px;
