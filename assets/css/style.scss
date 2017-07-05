@@ -5,19 +5,18 @@
 
 
 .page-header {
-  background-image: url("../../images/TutorialHeaderBanner.png");
-  background-color: #ededed;
+  background-color: #a50000;
   padding-top:10px;
   padding-bottom: 10px;
   text-shadow: 3px 3px 8px #ffffff;
-  color: #666666;
+  color: #dedede;
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .project-tagline  {
   margin: 0px;
   text-shadow: 2px 2px 6px #ffffff;
-  color: #4c4c4c;
+  color: #dedede;
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: bold;
 }
@@ -92,7 +91,6 @@
 }
 
 .footercredits{
- 
   text-align: center;
   width: 50%;
   height: 120px;
@@ -132,6 +130,6 @@ a:hover{
 .level {
   font-size: 1.15rem;
   font-family: 'Open Sans Condensed', sans-serif;
-  color: #4c4c4c;
+  color: #dedede;
   font-weight: bold;
 }
