@@ -138,7 +138,7 @@ Now we're ready to turn our map into a story.
 
 ### Building Your Story Map Journal
 
-The Story Map Journal interface is divided into a "Main Stage" and a "Side Panel". First select what you want your audience to see on the Main Stage. This is most often (and probably the intention of ArcGIS) a map, but you are allow to make it an image, video, or web page as well.
+The Story Map Journal interface is divided into a "Main Stage" and a "Side Panel". First select what you want your audience to see on the Main Stage. This is most often (and probably the intention of ArcGIS) a map, but you are allowed to make it an image, video, or web page as well.
 
 * In the "Select or create a map" dropdown menu, select the map of Lynchburg, VA crime incidents we created earlier, by the name you assigned your map.
 
@@ -190,7 +190,6 @@ Here's an example of the combined functionality of a section in the side panel (
 
 ![ArcGIS Story Map Journal final example](images/storymap12.PNG)
 
-I have posted the example used for this tutorial [here](http://arcg.is/2qoDTVl). Notice the effects when you scroll between sections. 
 
 ***Now all you have to do is string sections together to create a larger multimodal narrative -- all rooted in the geographic relationships of the spatial data and the multimedia qualitative anecdotes that make that data meaningful...***
 
