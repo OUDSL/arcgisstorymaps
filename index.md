@@ -1,8 +1,10 @@
 ## About
-Last Updated May 2017  
-Created by [Paul Vieth](http://paulkelleyvieth.org/)  
-University of Oklahoma Libraries
-An introductory tutorial for ArcGIS Story Maps
+Last Updated June 2018   
+Created by [Paul Vieth](http://paulkelleyvieth.org/)   
+Updated by [Sarah Clayton](https://github.com/sclayton29)
+
+### Note 
+This tutorial will include the basics of ArcGIS online but primarily focus on Story Maps. If you would like a more detailed look at ArcGIS online, please see our [ArcGIS Online tutorial](https://oudsl.github.io/ArcGISOnline/). 
 
 ## Table of Contents
 * [About](#about)
@@ -27,6 +29,7 @@ It has high end professional applications and functionality, but also provides a
 The supplementary application we're interested in today is called [Story Maps](http://www.arcgis.com/home/gallery.html#c=esri&t=maps&o=modified&f=storymaps).
 
 Story Maps is a powerful tool that allows you to integrate an audiovisual narrative with the relevant geographic relationships between the moments of the narrative and their spatial locations.
+
 
 ## Getting Started
 
