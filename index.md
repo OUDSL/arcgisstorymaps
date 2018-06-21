@@ -35,26 +35,26 @@ Story Maps is a powerful tool that allows you to integrate an audiovisual narrat
 
 ArcGIS uses the "freemium" model, so though they provide a professional version of their platform with high functionality for a cost, they also provide free public accounts. Before we get started, go to the [ArcGIS Online](https://www.arcgis.com/features/index.html) portal and click "Sign In" to create a free public account. Feel free to use a pre-existing google account to sign up. 
 
-When you've done that, click on the "Map" tab of the main menu. From the Arc GIS Online frontpage, you can also access the "Gallery" to see the potential of ArcGIS Online, or access the maps you've made under "My Content", once you've created some.
+When you've done that, click on the **Map** tab of the main menu. From the Arc GIS Online frontpage, you can also access the **Gallery** to see the potential of ArcGIS Online, or access the maps you've made under **My Content**, once you've created some.
 
-In the "Map" section, you should be taken to this screen:
+In the **Map** section, you should be taken to this screen:
 
 ![ArcGIS Mapmaker](/images/storymap01.PNG)
 
 There are three things you can do from this screen:
-* adjust the zoom level and the framing of the map
-* choose a basemap
-* add layers
+* Adjust the zoom level and the framing of the map
+* Choose a basemap
+* Add layers
 
 ### Basemap and Zoom
 ArcGIS Online only allows preset quantum zooming, so you must use the "+/-" zoom buttons and operate within the coarse adjustments they permit.
 
 ArcGIS Online provides 12 preloaded basemap options. The default is called "Topographic", but there are options for satellite imagery, monochromatic maps, streetmaps from [OpenStreetMap](https://www.openstreetmap.org/#map=5/51.500/-0.100), and others. Think tactically and tactfully about what you need the map to represent (and what you don't) in light of your project goals and aesthetic grammar.
 
-You can preview these options and select what you would like to use by clicking "Basemap" on the upper left side of the screen. 
+You can preview these options and select what you would like to use by clicking **Basemap** on the upper left side of the screen. 
 
 ### Layers
-The layers are the most important component of this preparatory process. "Layers" in ArcGIS can either mean map tile sets, or smatterings of geographic data (what ArcGIS calls "features"): both the quantitative data of latitudes and longitudes and the qualitative descriptions of what those points represent.
+The layers are the most important component of this preparatory process. **Layers** in ArcGIS can either mean map tile sets, or smatterings of geographic data (what ArcGIS calls "features"): both the quantitative data of latitudes and longitudes and the qualitative descriptions of what those points represent.
 
 (Refer to the [supplement](#supplement) section to learn how to add new tile layers (in the form of a beautiful watercolor map, for example))
 
@@ -90,8 +90,6 @@ On the left side of your map, you should see some options about how to display t
 
  ArcGIS will automatically adjust the position and zoom level of the map to neatly contain the data you "layed" on the map. You can also manually adjust the position and zoom of your map. 
 
-From here you can adjust the style of the layer under "select a drawing style" (I recommend "Counts and Amounts (Size)"). After you select the style, you can change the style properties by clicking "options".
-
 *Remember: How you see the map on this interface is the default display of the map inside the ArcGIS Online web application (Story Maps)*
 
 This is the process for making any map in ArcGIS online. From here we will go on to create a Story Map using the map you've just created.
@@ -106,19 +104,19 @@ Notice the toolbar on the right at the top of the screen.
 ![ArcGIS Online Save Share Print Measure Search Toolbar](/images/storymap04.PNG)
 
 The measurement tool allows you to determine:
-* the area of any polygon (created by successively clicking where you want the vertices, not clicking and dragging and being limited to quandrangles)
-* the length of any line segment, or series of non-linear but conjoined line segments (again by clicking in succession)
-* or the latitude and longitude of a point.
+* The area of any polygon (created by successively clicking where you want the vertices, not clicking and dragging and being limited to quandrangles)
+* The length of any line segment, or series of non-linear but conjoined line segments (again by clicking in succession)
+* Or the latitude and longitude of a point.
 
-You can also save your map from this toolbar. Make sure you do this now before we proceed!
+You can also save your map from this toolbar. Make sure you do this now before we proceed by clicking **Save**.
 
 Initializing your map in an ArcGIS web application is unintuitive from this view.
-* Click "Share" in this top-right toolbar
-* Check the box to share with "Everyone (public)"
-* Click the bottom-right button "Create a web app", despite the fact that it appears inactive in grey.
+* Click **Share** in this top-right toolbar
+* Check the box to share with **Everyone (public)**
+* Click the bottom-right button **Create a web app**, despite the fact that it appears inactive in grey.
 
 This will open a dialog box with access to the full suite of ArcGIS web applications, this isn't the forum to discuss all of them, especially given their specialized functionalities, but we will explore the Story Map applications.
-* Click the "Build a Story Map" tab.
+* Click the **Build a Story Map** tab.
   * Basic
   * Cascade
   * Crowdsource (beta)
@@ -135,15 +133,15 @@ We're going to be working with *Story Map Journal* during this tutorial, but I r
 They represent different graphical/stylistic variations on the same concept: a map (one that you've designed in the map builder as above) accompanied by multimodal content presented with a set of geographic relationships to the map you provide. For *Story Map Basic*, that content consists merely of a clean presentation window with a brief description of the map. Also, *Story Map Crowdsource (beta)* requires an ArcGIS subscription, but the National Parks Service has created [a great example](https://storymaps.esri.com/stories/2016/national-park-memories/index.html) of the power and poignancy of this application.
 
 Initializing *Story Map Journal*
-* In the "Build a Story Map" tab
-* Click "Story Map Journal"
-* Click "Create Web App" (blue button)
+* In the **Build a Story Map** tab
+* Click **Story Map Journal**
+* Click **Create Web App** (blue button)
 * Name your Story Map and tag it with identifiable keywords (these can simply be the name and tags of the map you created above)
-* and ... Click "Done"
+* and ... Click **Done**
 
 ![ArcGIS Story Map start window](/images/storymap06.png)
 
-This will take you to an option between a floating panel and a side panel. You can see live examples for both of these through this dialog box. For simplicity, just select "Side Panel" and Click "Start"
+This will take you to an option between a floating panel and a side panel. You can see live examples for both of these through this dialog box. For simplicity, select **Side Panel** and Click **Start**
 
 From here you can take a tour of the Story Map Journal web application, this will briefly detail the functionality of the Journal.
 
@@ -153,13 +151,13 @@ Now we're ready to turn our map into a story.
 
 ### Building Your Story Map Journal
 
-The Story Map Journal interface is divided into a "Main Stage" and a "Side Panel". First select what you want your audience to see on the Main Stage. This is most often (and probably the intention of ArcGIS) a map, but you are allowed to make it an image, video, or web page as well.
+The Story Map Journal interface is divided into a **Main Stage** and a **Side Panel**. First select what you want your audience to see on the Main Stage. This is most often (and probably the intention of ArcGIS) a map, but you are allowed to make it an image, video, or web page as well.
 
-* In the "Select or create a map" dropdown menu, select the map of Lynchburg, VA crime incidents we created earlier, by the name you assigned your map.
+* In the **Select or create a map** dropdown menu, select the map of Lynchburg, VA crime incidents we created earlier, by the name you assigned your map.
 
 ![ArcGIS Story Map Journal Building start](/images/storymap07.png)
 
-* Keep all of the default options and click "Next"
+* Keep all of the default options and click **Next**
 * You'll then be asked to populate your Side Panel (this is where the text and media of your narrative go). ArcGIS wants you to create a home section, with a project subtitle (the title you gave earlier will display automatically), and maybe an introductory image first.
 
 ![ArcGIS Story Map Journal Side Panel Editor](/images/storymap08.png)
@@ -173,12 +171,12 @@ Now that we've placed the Main Stage content map and the Side Panel introduction
 ### Side Panel Functionality
 
 After you've created your starting view for your Main Stage (map) and your Side Panel introduction, there are only two actions you need to perform to enlarge and enhance your story.
-* "Add Section"
-* "Organize"
+* **Add Section**
+* **Organize**
 
 ![ArcGIS Story Map Journal Add Section Organize Button](/images/storymap10.PNG)
 
-* Click "Add Section"
+* Click **Add Section**
 
 Each new section involves not just creating Side Panel content for that section, but changing the display properties of the Main Stage. So when you add a section, you'll see this dialog box:
 
@@ -187,11 +185,11 @@ Each new section involves not just creating Side Panel content for that section,
 For each section you can set the content of the Main Stage to a map, image, video, or webpage.
 
 If you keep the Main Stage content as a map, you can:
-* Change the location and zoom level of the map - (Click "Custom configuration" in "Location" section)
-* Choose which layers you want displayed on the map. Our map only has two layers, a basemap and a layer of crime incident datapoints. Some maps have dozens of layers of information, and discarding irrelevant layers can help clarify the point you're trying to make in a particular section - (Click "Custom configuration" in "Content" section)
-* Display a pop-up containing supplementary information about a particular datapoint (feature) - (Click "Custom configuration" in "Pop-up" section)
-* Since you might display only a particular detail of the map for a section, you can keep the larger map displayed in the bottom corner of the Main Stage- ("Overview Map" in "Extras" section)
-* You can also allow your audience to see the map legend or search for addresses, places, or features (data points) on your map - ("Extras" section)
+* Change the location and zoom level of the map - (Click **Custom configuration** in **Location** section)
+* Choose which layers you want displayed on the map. Our map only has two layers, a basemap and a layer of crime incident datapoints. Some maps have dozens of layers of information, and discarding irrelevant layers can help clarify the point you're trying to make in a particular section - (Click **Custom configuration** in **Content** section)
+* Display a pop-up containing supplementary information about a particular datapoint (feature) - (Click **Custom configuration** in **Pop-up** section)
+* Since you might display only a particular detail of the map for a section, you can keep the larger map displayed in the bottom corner of the Main Stage- (**Overview Map** in **Extras** section)
+* You can also allow your audience to see the map legend or search for addresses, places, or features (data points) on your map - (**Extras** section)
 
 The Side Panel can contain 
 * **images**
@@ -201,7 +199,7 @@ The Side Panel can contain
 * **block quotes**
 * or **bulleted and numbered lists**
 
-Here's an example of the combined functionality of a section in the side panel (with each design decision highlighted in red). I recentered and zoomed the map (to a particular neighborhood); I had the map display a detail pop-up of a particular datapoint; I have the overview map displayed in the corner; the legend can drop-down from the top; I have contextualizing imagery, video, and description in the Side Panel.
+Here's an example of the combined functionality of a section in the side panel (with each design decision highlighted in red). I re-centered and zoomed the map (to a particular neighborhood); I had the map display a detail pop-up of a particular datapoint; I have the overview map displayed in the corner; the legend can drop-down from the top; I have contextualizing imagery, video, and description in the Side Panel.
 
 ![ArcGIS Story Map Journal final example](images/storymap12.PNG)
 
