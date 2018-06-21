@@ -70,19 +70,29 @@ For this tutorial we're going to be using a crime incident dataset provided by t
 
 We originally download the dataset from the [Crime Incident page of the Open Data Portal](http://data-cityoflynchburg.opendata.arcgis.com/datasets/b8c01be47c7a49cfbdad384e6366959f_35).Feel free to pursue the original dataset, but you will not be able to update the full set because of the size limits.  
 
-![ArcGiS Lynchburg Virginia Crime Incident Dataset Download](/images/storymap03.png)
 
-* Return to the ArcGIS Online Map Viewer. Click the "Add" dropdown menu and select "add layer from file." Browse for the Lynchburg, VA crime incidents dataset you just downloaded.
+* Return to the ArcGIS Online Map Viewer. Click the **Add** dropdown menu and select **add layer from file.** 
+* Browse for the Lynchburg, VA crime incidents dataset you just downloaded.
+* Click the blue **Import layer** button. 
+* Scroll down to Address under the Review location field and select **Addresses or Place**. *By default, ArcGIS will have selected street for the location field.*
+* Click **Add Layer** to add your data to the map. 
 
-Don't worry about the "Warning" window that just popped up. It's telling you the dataset has more than 1000 features (datapoints). For the sake of ease and speed, dismiss this dialog box by clicking "No, Stop Adding Features". [ArcGIS Online Help has tips for add larger datasets you can refer to if your own data exceeds the recommended 1,000 datapoints limit.](http://doc.arcgis.com/en/arcgis-online/reference/best-practices-layers.htm) 
+![Selecting Location Field](/images/storymap03.png)
 
-*[Another note about this dataset: It comes with unique geographic identifiers for each crime incident. If you upload your own data, ArcGIS online will ask you to connect either latitude and logitude, or a set of postal address identifiers to the column headings in your data.]*
+On the left side of your map, you should see some options about how to display the data you just uploaded. 
+* Change option 1 to **Show location only**. 
+* Then, select the blue **Done** button. 
+* Finally, you should see you data on the map. 
 
-The basemap you created will automatically populate with datapoints from the "inci_id" column of the Lynchburg crime data (this is what we want, these points represent unique instances of a committed crime). ArcGIS will automatically adjust the position and zoom level of the map to neatly contain the data you "layed" on the map. You can also manually adjust the position and zoom of your map. 
+![Styling Map Layer](/images/storymap03a.png) 
+
+*[Quick note about this dataset: It comes with unique geographic identifiers for each crime incident. If you upload your own data, ArcGIS online will ask you to connect either latitude and longitude, or a set of postal address identifiers to the column headings in your data.]*
+
+ ArcGIS will automatically adjust the position and zoom level of the map to neatly contain the data you "layed" on the map. You can also manually adjust the position and zoom of your map. 
 
 From here you can adjust the style of the layer under "select a drawing style" (I recommend "Counts and Amounts (Size)"). After you select the style, you can change the style properties by clicking "options".
 
-*[Remember: How you see the map on this interface is the default display of the map inside the ArcGIS Online web application (Story Maps)]*
+*Remember: How you see the map on this interface is the default display of the map inside the ArcGIS Online web application (Story Maps)*
 
 This is the process for making any map in ArcGIS online. From here we will go on to create a Story Map using the map you've just created.
 
