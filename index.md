@@ -20,9 +20,9 @@ This tutorial will include the basics of ArcGIS online but primarily focus on St
 
 ## Introduction
 
-[ArcGIS](http://www.arcgis.com/home/index.html) is a [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system) platform.
+[ArcGIS](http://www.arcgis.com/home/index.html) is a [Geographic Information System](https://en.wikipedia.org/wiki/Geographic_information_system).
 
-It has high end professional applications and functionality, but also provides a free and public online version through which geographic data can be mapped and augmented with a variety of supplementary applications.
+It has high end professional applications and functionality but also provides a free and public online version through which geographic data can be mapped and augmented with a variety of supplementary applications.
 
 [Here are some examples of what you can do with ArcGIS](http://www.arcgis.com/home/gallery.html#c=esri&t=maps&o=modified)
 
@@ -33,7 +33,7 @@ Story Maps is a powerful tool that allows you to integrate an audiovisual narrat
 
 ## Getting Started
 
-ArcGIS uses the "freemium" model, so though they provide a professional version of their platform with high functionality for a cost, they also provide free public accounts. Before we get started, go to the [ArcGIS Online](https://www.arcgis.com/features/index.html) portal and click "Sign In" to create a free public account.
+ArcGIS uses the "freemium" model, so though they provide a professional version of their platform with high functionality for a cost, they also provide free public accounts. Before we get started, go to the [ArcGIS Online](https://www.arcgis.com/features/index.html) portal and click "Sign In" to create a free public account. Feel free to use a pre-existing google account to sign up. 
 
 When you've done that, click on the "Map" tab of the main menu. From the Arc GIS Online frontpage, you can also access the "Gallery" to see the potential of ArcGIS Online, or access the maps you've made under "My Content", once you've created some.
 
@@ -49,7 +49,7 @@ There are three things you can do from this screen:
 ### Basemap and Zoom
 ArcGIS Online only allows preset quantum zooming, so you must use the "+/-" zoom buttons and operate within the coarse adjustments they permit.
 
-ArcGIS Online provides 12 preloaded basemap options. The default is called "Topographic", but there are options for satellite imagery, monochromatic maps, streetmaps from [OpenStreetMap](https://www.openstreetmap.org/#map=5/51.500/-0.100), and others. Think tactically and tactfully about what you need to map to represent (and what you don't) in light of your project goals and aesthetic grammar.
+ArcGIS Online provides 12 preloaded basemap options. The default is called "Topographic", but there are options for satellite imagery, monochromatic maps, streetmaps from [OpenStreetMap](https://www.openstreetmap.org/#map=5/51.500/-0.100), and others. Think tactically and tactfully about what you need the map to represent (and what you don't) in light of your project goals and aesthetic grammar.
 
 You can preview these options and select what you would like to use by clicking "Basemap" on the upper left side of the screen. 
 
@@ -66,7 +66,9 @@ You can import layers from the web, search for publicly accessible layers on the
 
 ArcGIS Online can work with [KML](https://developers.google.com/kml/documentation/), [GeoRSS](http://www.georss.org/), or [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) files.
 
-For this tutorial we're going to be using a crime incident dataset provided by the City of Lynchburg, Virginia. The City of Lynchburg maintains an open data portal in the spirit of administrative transparency. From the [Crime Incident page of the Open Data Portal](http://data-cityoflynchburg.opendata.arcgis.com/datasets/3c7b25e759a643cb9ef7d8caf6f5db21_0?mapSize=map-maximize&geometry=-79.841%2C37.193%2C-78.535%2C37.648), download the CSV file ("spreadsheet") of the dataset.
+For this tutorial we're going to be using a crime incident dataset provided by the City of Lynchburg, Virginia. The City of Lynchburg maintains an open data portal in the spirit of administrative transparency. Because of size limitations for individual file uploads into ArcGIS Online, we have reduced the dataset to only show the crime incident reports from January 2018. [Please download the sample dataset here](data/Crime_Incidents_2018-01.csv).
+
+We originally download the dataset from the [Crime Incident page of the Open Data Portal](http://data-cityoflynchburg.opendata.arcgis.com/datasets/b8c01be47c7a49cfbdad384e6366959f_35).Feel free to pursue the original dataset, but you will not be able to update the full set because of the size limits.  
 
 ![ArcGiS Lynchburg Virginia Crime Incident Dataset Download](/images/storymap03.png)
 
