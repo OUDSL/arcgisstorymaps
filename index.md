@@ -128,7 +128,7 @@ This will open a dialog box with access to the full suite of ArcGIS web applicat
 
 ![ArcGIS Story Map versions](/images/storymap05.PNG)
 
-We're going to be working with *Story Map Journal* during this tutorial, but I really encourage you to play around with all 8 versions.
+We're going to be working with *Story Map Journal* during this first section, but I really encourage you to play around with all 8 versions.
 
 They represent different graphical/stylistic variations on the same concept: a map (one that you've designed in the map builder as above) accompanied by multimodal content presented with a set of geographic relationships to the map you provide. For *Story Map Basic*, that content consists merely of a clean presentation window with a brief description of the map. Also, *Story Map Crowdsource (beta)* requires an ArcGIS subscription, but the National Parks Service has created [a great example](https://storymaps.esri.com/stories/2016/national-park-memories/index.html) of the power and poignancy of this application.
 
@@ -213,6 +213,44 @@ When you're all done, you can share a link to your story map or embed it into a 
 [the story map created for this tutorial is completely fabricated and unrelated to any legitimate scholarly research project (thank goodness)]
 
 <hr>
+## Story Maps Cascade
+
+Another option in Story Maps that is worth exploring is the Cascade option. The Cascade creator has slightly different functionality, so let's dive in.
+From the **My Stories** page, select **Create Story**, and select the Cascade option in the window. 
+
+![ArcGIS Cascade Menu](arcgisstorymaps/images/story maps tutorial 1.PNG)
+
+## Building Your Story Map
+
+The menu on the left side contains six buttons at the top:
+* The **eye** symbol lets you preview your story as you add sections to it.
+* The settings symbol lets you select the theme of your page under **Appearance** : **light** or **dark**, as well as the fonts you wish to use. 
+
+![ArcGIS Cascade Options](arcgisstorymaps/images/story maps tutorial 2.PNG)
+
+* The **heart** symbol, or health report, lets you know if something in your project is causing an error, and it will tell you exactly which part of the project needs to be fixed.
+* Next is a **Save** button, and then your privacy settings.
+
+## Side Panel Functionality
+
+* You begin with a **cover** page where you can enter the name of your project, a subtitle, and media. 
+* Click **Add your image or video** to upload or link to an image from the web. This will place the image in the background.
+* Be sure to select an image that is large enough to span the whole width and height of the page! If the image size is too small, the image will become pixelated and hard to view.
+* At the bottom of the screen is a downward-facing arrow (V). Click that and then the plus sign to add a new section to your Cascade.
+
+![ArcGIS Add New Section](arcgisstorymaps/images/story maps tutorial 3.PNG)
+
+* Your options are **Text**, **Media**, **Title**, or **Immersive**. 
+* **Text** will open a text page where you can insert as much information as you wish, and you can then insert other images or video into that section.
+* **Media** will open a window to upload or insert a URL for images and video.
+* **Title** will insert a horizontal strip into your story where you can write a header title, and insert an image in the background if you wish.
+* **Immersive** is where you can insert a large-sized file, such as a map or image, and your text will float across the screen as you scroll. The floating section ("Continue your story here...") has an edit option where you can change the size of the floating box, the **dark** or **light** theme, and the position on the screen. Test our different options to see which looks best with your media!
+
+##Organize
+
+* At the bottom of the left panel, there is a button that says **organize**. This lets you re-arrange your sections as you see fit and save them into new positions. This is really helpful when you add and delete sections! 
+* Hover over your sections in the left panel: you can **duplicate** a section that you think is stylish, or **delete** a section entirely if you're unhappy with it. 
+* Cascade is kind-hearted and will let you **undo** these actions if you make a mistake. Watch for the **Undo** box that appears on the upper right hand side of the screen! 
 
 ## Supplement
 
