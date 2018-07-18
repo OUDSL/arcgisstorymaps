@@ -213,12 +213,13 @@ When you're all done, you can share a link to your story map or embed it into a 
 [the story map created for this tutorial is completely fabricated and unrelated to any legitimate scholarly research project (thank goodness)]
 
 <hr>
+
 ## Story Maps Cascade
 
-Another option in Story Maps that is worth exploring is the Cascade option. The Cascade creator has slightly different functionality, so let's dive in.
+Another Story Map that is worth exploring is the Cascade option. The Cascade creator has slightly different functionality, so let's dive in.
 From the **My Stories** page, select **Create Story**, and select the Cascade option in the window. 
 
-![ArcGIS Cascade Menu](arcgisstorymaps/images/story maps tutorial 1.PNG)
+![ArcGIS Cascade Menu](images/cascade_1.PNG)
 
 ## Building Your Story Map
 
@@ -226,7 +227,7 @@ The menu on the left side contains six buttons at the top:
 * The **eye** symbol lets you preview your story as you add sections to it.
 * The settings symbol lets you select the theme of your page under **Appearance** : **light** or **dark**, as well as the fonts you wish to use. 
 
-![ArcGIS Cascade Options](arcgisstorymaps/images/story maps tutorial 2.PNG)
+![ArcGIS Cascade Options](images/cascade_2.PNG)
 
 * The **heart** symbol, or health report, lets you know if something in your project is causing an error, and it will tell you exactly which part of the project needs to be fixed.
 * Next is a **Save** button, and then your privacy settings.
@@ -238,7 +239,7 @@ The menu on the left side contains six buttons at the top:
 * Be sure to select an image that is large enough to span the whole width and height of the page! If the image size is too small, the image will become pixelated and hard to view.
 * At the bottom of the screen is a downward-facing arrow (V). Click that and then the plus sign to add a new section to your Cascade.
 
-![ArcGIS Add New Section](arcgisstorymaps/images/story maps tutorial 3.PNG)
+![ArcGIS Add New Section](images/cascade_3.PNG)
 
 * Your options are **Text**, **Media**, **Title**, or **Immersive**. 
 * **Text** will open a text page where you can insert as much information as you wish, and you can then insert other images or video into that section.
@@ -246,7 +247,7 @@ The menu on the left side contains six buttons at the top:
 * **Title** will insert a horizontal strip into your story where you can write a header title, and insert an image in the background if you wish.
 * **Immersive** is where you can insert a large-sized file, such as a map or image, and your text will float across the screen as you scroll. The floating section ("Continue your story here...") has an edit option where you can change the size of the floating box, the **dark** or **light** theme, and the position on the screen. Test our different options to see which looks best with your media!
 
-##Organize
+## Organize
 
 * At the bottom of the left panel, there is a button that says **organize**. This lets you re-arrange your sections as you see fit and save them into new positions. This is really helpful when you add and delete sections! 
 * Hover over your sections in the left panel: you can **duplicate** a section that you think is stylish, or **delete** a section entirely if you're unhappy with it. 
