@@ -1,7 +1,7 @@
 ## About
 Last Updated June 2018   
 Created by [Paul Vieth](http://paulkelleyvieth.org/)   
-Updated by [Sarah Clayton](https://github.com/sclayton29)
+Updated by [Sarah Clayton](https://github.com/sclayton29) and Chelsea Smith-Antonides 
 
 ### Note 
 This tutorial will include the basics of ArcGIS online but primarily focus on Story Maps. If you would like a more detailed look at ArcGIS online, please see our [ArcGIS Online tutorial](https://oudsl.github.io/ArcGISOnline/). 
