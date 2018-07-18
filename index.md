@@ -217,8 +217,8 @@ When you're all done, you can share a link to your story map or embed it into a 
 
 ## Story Maps Cascade
 
-Another Story Map that is worth exploring is the Cascade option. The Cascade creator has slightly different functionality, so let's dive right in.
-From the **My Stories** page, select **Create Story**, and select the Cascade option in the window. 
+Another Story Map that is worth exploring is the Cascade option. The Cascade creator has slightly different functionality, so let's dive right in and test it out.
+From the [**My Stories**](https://storymaps.arcgis.com/en/my-stories/) page, select **Create Story**, and select the Cascade option in the window. 
 
 ![ArcGIS Cascade Menu](images/cascade_1.PNG)
 
@@ -256,12 +256,12 @@ The menu on the left side contains six options at the top:
 ### Organize
 
 * At the bottom of the left panel, there is a button that says **organize**. This lets you re-arrange your sections as you see fit and save them into new positions. This is really helpful when you add and delete things! 
-* Hover over your sections in the left panel: you can **duplicate** a section that you think is stylish, or **delete** a section entirely if you're really unhappy with it. 
+* Hover over your sections in the left panel: you can **duplicate** a section that you think is stylish, or **delete** a section entirely if you're unhappy with it. 
 * Cascade is kind-hearted and will let you **undo** these actions if you make a mistake. Watch for the **Undo** box that appears on the upper right hand side of the screen! 
 
 ### Remove or Change Media
 
-* Did you upload a picture and dislike how it looks? Don't fret! The bottom left corner of the image will have a little edit button that looks like a pencil. Click that and then **Manage**. This is where you can replace your image with a better one. Click the check mark that appears in the botton left corner to save these changes.  
+* Did you upload a picture and dislike how it looks? Don't fret! The bottom left corner of the image will have a little edit button that looks like a pencil. Click that and then **Manage**. Next click **Change Media**. This is where you can replace your image with a better one. Click the check mark that appears in the botton left corner to save these changes.  
 
 ![change media](/images/cascade_5.PNG)
 
