@@ -242,7 +242,7 @@ The menu on the left side contains six options at the top:
 * Be sure to select an image that is large enough to span the whole width and height of the page! If the image size is too small, the image will become pixelated and hard to view. 
 * At the bottom of the screen is a downward-facing arrow (V). Click that and then the plus sign to add a new section to your Cascade.
 
-![ArcGIS Add New Section](cascade_8.PNG)
+![ArcGIS Add New Sections](images/cascade_8.PNG)
 
 * Your options are **Text**, **Media**, **Title**, or **Immersive**. 
 * **Text** will open a text page where you can insert as much information as you wish, and you can then insert other images or video into that section. You can insert quotes and center your text, too! 
