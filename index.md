@@ -218,7 +218,7 @@ When you're all done, you can share a link to your story map or embed it into a 
 ## Story Maps Cascade
 
 Another Story Map that is worth exploring is the Cascade option. The Cascade creator has slightly different functionality, so let's dive right in and test it out.
-From the [**My Stories**](https://storymaps.arcgis.com/en/my-stories/) page, select **Create Story**, and select the Cascade option in the window. 
+From the **[My Stories](https://storymaps.arcgis.com/en/my-stories/)** page, select **Create Story**, and select the Cascade option in the window. 
 
 ![ArcGIS Cascade Menu](images/cascade_1.PNG)
 
@@ -242,7 +242,7 @@ The menu on the left side contains six options at the top:
 * Be sure to select an image that is large enough to span the whole width and height of the page! If the image size is too small, the image will become pixelated and hard to view. 
 * At the bottom of the screen is a downward-facing arrow (V). Click that and then the plus sign to add a new section to your Cascade.
 
-![ArcGIS Add New Section](cascade_3.PNG)
+![ArcGIS Add New Section](cascade_8.PNG)
 
 * Your options are **Text**, **Media**, **Title**, or **Immersive**. 
 * **Text** will open a text page where you can insert as much information as you wish, and you can then insert other images or video into that section. You can insert quotes and center your text, too! 
