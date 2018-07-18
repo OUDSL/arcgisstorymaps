@@ -16,7 +16,7 @@ This tutorial will include the basics of ArcGIS online but primarily focus on St
   * [Thrusting into Story Maps -- Sharing to Initialize an ArcGIS Application](#initializing-story-maps)
   * [Building Your Story Map Journal](#building-your-story-map-journal)
   * [Side Panel Functionality](#side-panel-functionality)
-  * [Story Maps Cascade](#story-maps-cascade)
+* [Story Maps Cascade](#story-maps-cascade)
 * [Supplement](#supplement)
 
 ## Introduction
@@ -217,7 +217,7 @@ When you're all done, you can share a link to your story map or embed it into a 
 
 ## Story Maps Cascade
 
-Another Story Map that is worth exploring is the Cascade option. The Cascade creator has slightly different functionality, so let's dive in.
+Another Story Map that is worth exploring is the Cascade option. The Cascade creator has slightly different functionality, so let's dive right in.
 From the **My Stories** page, select **Create Story**, and select the Cascade option in the window. 
 
 ![ArcGIS Cascade Menu](images/cascade_1.PNG)
@@ -225,12 +225,14 @@ From the **My Stories** page, select **Create Story**, and select the Cascade op
 ### Building Your Story Map
 
 The menu on the left side contains six options at the top:
-* The **eye** symbol lets you preview your story as you add sections to it.
-* The settings symbol lets you select the theme of your page under **Appearance**. Tou can have a **light** or **dark** theme, as well as a variety of fonts. 
 
 ![ArcGIS Cascade Options](images/cascade_2.PNG)
 
-* The **heart** symbol, or health report, lets you know if something in your project is causing an error, and it will tell you exactly which part of the project needs to be fixed. Usually this is an image that was not uploaded properly. 
+![settings menu](images/cascade_6.PNG)
+
+* You can preview your story by clicking the upper left button ("View Your Story").
+* The settings symbol lets you select the theme of your page under **Appearance**. You can have a **light** or **dark** theme and pick which fonts you want to use. 
+* The health report button (the **heart**) lets you know if something in your project is causing an error, and it will tell you exactly which part of the project needs to be fixed. Usually this is an image that was not uploaded properly. 
 * Next is a **Save** button, and then your privacy settings.
 
 ### Side Panel Functionality
@@ -240,15 +242,15 @@ The menu on the left side contains six options at the top:
 * Be sure to select an image that is large enough to span the whole width and height of the page! If the image size is too small, the image will become pixelated and hard to view. 
 * At the bottom of the screen is a downward-facing arrow (V). Click that and then the plus sign to add a new section to your Cascade.
 
-![ArcGIS Add New Section](images/cascade_3.PNG)
+![ArcGIS Add New Section](cascade_3.PNG)
 
 * Your options are **Text**, **Media**, **Title**, or **Immersive**. 
-* **Text** will open a text page where you can insert as much information as you wish, and you can then insert other images or video into that section.
+* **Text** will open a text page where you can insert as much information as you wish, and you can then insert other images or video into that section. You can insert quotes and center your text, too! 
 * **Media** will open a window where you can upload an image, or insert the URL of an image. You can also upload ArcGIS data! The upper left of this window says ArcGIS, and below that, ArcGIS Online. Here you can find map data that other users have created, and you can apply it to any map that you create or upload to your project. Neat! This can give you ideas for your own maps. 
 
 ![upload media section](images/cascade_4.PNG)
 
-* **Title** will insert a horizontal strip into your story where you can write a header title, and insert an image in the background if you wish.
+* **Title** will insert a horizontal strip into your story where you can write a header title and insert an image in the background if you wish.
 * **Immersive** is where you can insert a large-sized file, such as a map or image, and your text will float across the screen as you scroll. The floating section ("Continue your story here...") has an edit option where you can change the size of the floating box, change the **dark** or **light** theme, and its position on the screen. Test the different options to see which looks best with your media! 
 
 ### Organize
@@ -259,15 +261,15 @@ The menu on the left side contains six options at the top:
 
 ### Remove or Change Media
 
-* Did you upload a picture and dislike how it looks? Don't fret! The bottom left corner of the image will have a little edit button that looks like a pencil. Click that and then **Manage**. This is where you can replace your image with a better one. 
+* Did you upload a picture and dislike how it looks? Don't fret! The bottom left corner of the image will have a little edit button that looks like a pencil. Click that and then **Manage**. This is where you can replace your image with a better one. Click the check mark that appears in the botton left corner to save these changes.  
 
 ![change media](/images/cascade_5.PNG)
 
 
 ### Final Thoughts
 
-* Cascade is a great option for creating a web page. Play around with your options and create a beautiful project in no time.
-* Don't forget to add a credit section at the bottom! Put your sources there if you use any. 
+* Cascade is a great option for creating a web page and it's especially friendly to images. Play around with your options and create a beautiful project in no time.
+* Don't forget to add a credits section at the bottom! Put your sources there if you borrow images or quotes. 
 
 <hr> 
 
