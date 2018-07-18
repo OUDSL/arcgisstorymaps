@@ -243,7 +243,10 @@ The menu on the left side contains six buttons at the top:
 
 * Your options are **Text**, **Media**, **Title**, or **Immersive**. 
 * **Text** will open a text page where you can insert as much information as you wish, and you can then insert other images or video into that section.
-* **Media** will open a window to upload or insert a URL for images and video.
+* **Media** will open a window where you can upload an image, or insert the URL of an image. You can also upload ArcGIS data! The upper left option of this window says ArcGIS, and below that, ArcGIS Online. Here you can find map data that other users have created, and you can apply it to any map that you create or upload to your project.
+
+![upload media section](images/cascade_4.PNG)
+
 * **Title** will insert a horizontal strip into your story where you can write a header title, and insert an image in the background if you wish.
 * **Immersive** is where you can insert a large-sized file, such as a map or image, and your text will float across the screen as you scroll. The floating section ("Continue your story here...") has an edit option where you can change the size of the floating box, the **dark** or **light** theme, and the position on the screen. Test our different options to see which looks best with your media!
 
@@ -252,6 +255,8 @@ The menu on the left side contains six buttons at the top:
 * At the bottom of the left panel, there is a button that says **organize**. This lets you re-arrange your sections as you see fit and save them into new positions. This is really helpful when you add and delete sections! 
 * Hover over your sections in the left panel: you can **duplicate** a section that you think is stylish, or **delete** a section entirely if you're unhappy with it. 
 * Cascade is kind-hearted and will let you **undo** these actions if you make a mistake. Watch for the **Undo** box that appears on the upper right hand side of the screen! 
+
+<hr> 
 
 ## Supplement
 
