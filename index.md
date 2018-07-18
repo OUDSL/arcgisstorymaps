@@ -12,7 +12,7 @@ This tutorial will include the basics of ArcGIS online but primarily focus on St
 * [Getting Started -- Creating your Basemap](#getting-started)
   * [Basemap and Zoom](#basemap-and-zoom)
   * [Layers](#layers)
-* [Story Maps](#story-maps)
+* [Story Maps Journal](#story-maps)
   * [Thrusting into Story Maps -- Sharing to Initialize an ArcGIS Application](#initializing-story-maps)
   * [Building Your Story Map Journal](#building-your-story-map-journal)
   * [Side Panel Functionality](#side-panel-functionality)
