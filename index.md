@@ -223,38 +223,50 @@ From the **My Stories** page, select **Create Story**, and select the Cascade op
 
 ## Building Your Story Map
 
-The menu on the left side contains six buttons at the top:
+The menu on the left side contains six options at the top:
 * The **eye** symbol lets you preview your story as you add sections to it.
-* The settings symbol lets you select the theme of your page under **Appearance** : **light** or **dark**, as well as the fonts you wish to use. 
+* The settings symbol lets you select the theme of your page under **Appearance**. Tou can have a **light** or **dark** theme, as well as a variety of fonts. 
 
 ![ArcGIS Cascade Options](images/cascade_2.PNG)
 
-* The **heart** symbol, or health report, lets you know if something in your project is causing an error, and it will tell you exactly which part of the project needs to be fixed.
+* The **heart** symbol, or health report, lets you know if something in your project is causing an error, and it will tell you exactly which part of the project needs to be fixed. Usually this is an image that was not uploaded properly. 
 * Next is a **Save** button, and then your privacy settings.
 
 ## Side Panel Functionality
 
-* You begin with a **cover** page where you can enter the name of your project, a subtitle, and media. 
+* You begin with a **cover** page where you can enter the name of your project, a subtitle, and a picture if you wish. 
 * Click **Add your image or video** to upload or link to an image from the web. This will place the image in the background.
-* Be sure to select an image that is large enough to span the whole width and height of the page! If the image size is too small, the image will become pixelated and hard to view.
+* Be sure to select an image that is large enough to span the whole width and height of the page! If the image size is too small, the image will become pixelated and hard to view. 
 * At the bottom of the screen is a downward-facing arrow (V). Click that and then the plus sign to add a new section to your Cascade.
 
 ![ArcGIS Add New Section](images/cascade_3.PNG)
 
 * Your options are **Text**, **Media**, **Title**, or **Immersive**. 
 * **Text** will open a text page where you can insert as much information as you wish, and you can then insert other images or video into that section.
-* **Media** will open a window where you can upload an image, or insert the URL of an image. You can also upload ArcGIS data! The upper left option of this window says ArcGIS, and below that, ArcGIS Online. Here you can find map data that other users have created, and you can apply it to any map that you create or upload to your project.
+* **Media** will open a window where you can upload an image, or insert the URL of an image. You can also upload ArcGIS data! The upper left of this window says ArcGIS, and below that, ArcGIS Online. Here you can find map data that other users have created, and you can apply it to any map that you create or upload to your project. Neat! This can give you ideas for your own maps. 
 
 ![upload media section](images/cascade_4.PNG)
 
 * **Title** will insert a horizontal strip into your story where you can write a header title, and insert an image in the background if you wish.
-* **Immersive** is where you can insert a large-sized file, such as a map or image, and your text will float across the screen as you scroll. The floating section ("Continue your story here...") has an edit option where you can change the size of the floating box, the **dark** or **light** theme, and the position on the screen. Test our different options to see which looks best with your media!
+* **Immersive** is where you can insert a large-sized file, such as a map or image, and your text will float across the screen as you scroll. The floating section ("Continue your story here...") has an edit option where you can change the size of the floating box, change the **dark** or **light** theme, and its position on the screen. Test the different options to see which looks best with your media! 
 
 ## Organize
 
-* At the bottom of the left panel, there is a button that says **organize**. This lets you re-arrange your sections as you see fit and save them into new positions. This is really helpful when you add and delete sections! 
-* Hover over your sections in the left panel: you can **duplicate** a section that you think is stylish, or **delete** a section entirely if you're unhappy with it. 
+* At the bottom of the left panel, there is a button that says **organize**. This lets you re-arrange your sections as you see fit and save them into new positions. This is really helpful when you add and delete things! 
+* Hover over your sections in the left panel: you can **duplicate** a section that you think is stylish, or **delete** a section entirely if you're really unhappy with it. 
 * Cascade is kind-hearted and will let you **undo** these actions if you make a mistake. Watch for the **Undo** box that appears on the upper right hand side of the screen! 
+
+## Remove or Change Media
+
+* Did you upload a picture and dislike how it looks? Don't fret! The bottom left corner of the image will have a little edit button that looks like a pencil. Click that and then **Manage**. This is where you can replace your image with a better one. 
+
+![change media](/images/cascade_5.PNG)
+
+
+## Final Thoughts
+
+* Cascade is a great option for creating a web page. Play around with your options and create a beautiful project in no time.
+* Don't forget to add a credit section at the bottom! Put your sources there if you use any. 
 
 <hr> 
 
