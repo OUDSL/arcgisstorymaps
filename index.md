@@ -194,7 +194,7 @@ After you've created your starting view for your Main Stage (map) and your Side 
 
 ![ArcGIS Story Map Journal Add Section Organize Button](/images/storymap10.PNG)
 
-* Click **Add Section**
+* Click **Add Section**.
 
 Each new section involves not just creating Side Panel content for that section, but changing the display properties of the Main Stage. So when you add a section, you'll see this dialog box:
 
