@@ -232,7 +232,7 @@ Here's an example of the combined functionality of a section in the side panel (
 * You'll then be asked to populate your Side Panel. 
 * Write the name of the first section, then highlight the text.
 * In the box called **Story Actions**, move over to the fourth option, an up and down arrow.
-* This will open a box called **Navigate to Another Section** .
+* This will open a box called **Navigate to Another Section**.
 * From the pull down menu, select the appropriate section and hit **Apply**, and **Save**.
 * Continue until all of your sections are represented.
 
