@@ -95,6 +95,9 @@ On the left side of your map, you should see some options about how to display t
 
 This is the process for making any map in ArcGIS online. From here we will go on to create a Story Map using the map you've just created.
 
+**Adding a Watercolor Basemap**
+
+
 ## Story Maps
 ### Initializing Story Maps
 
