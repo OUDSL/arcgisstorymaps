@@ -225,7 +225,7 @@ Here's an example of the combined functionality of a section in the side panel (
 ***Now all you have to do is string sections together to create a larger multimodal narrative -- all rooted in the geographic relationships of the spatial data and the multimedia qualitative anecdotes that make that data meaningful...***
 
 
-**Adding a Table of Contents**
+**Adding an Optional Table of Contents**
 
 * Click **Add Section**
 * Select what you want your audience to see on the Main Stage: a map, an image, video, or web page, and fill in your title and alternative text.
