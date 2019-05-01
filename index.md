@@ -224,6 +224,19 @@ Here's an example of the combined functionality of a section in the side panel (
 
 ***Now all you have to do is string sections together to create a larger multimodal narrative -- all rooted in the geographic relationships of the spatial data and the multimedia qualitative anecdotes that make that data meaningful...***
 
+
+**Adding a Table of Contents**
+
+* Click **Add Section**
+* Select what you want your audience to see on the Main Stage: a map, an image, video, or web page, and fill in your title and alternative text.
+* You'll then be asked to populate your Side Panel. 
+* Write the name of the first section, then highlight the text.
+* In the box called **Story Actions**, move over to the fourth option, an up and down arrow.
+* This will open a box called **Navigate to Another Section** .
+* From the pull down menu, select the appropriate section and hit **Apply**, and **Save**.
+* Continue until all of your sections are represented.
+
+
 When you're all done, you can share a link to your story map or embed it into a website.
 
 **Have fun!**
