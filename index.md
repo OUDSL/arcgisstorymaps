@@ -96,10 +96,14 @@ On the left side of your map, you should see some options about how to display t
 This is the process for making any map in ArcGIS online. From here we will go on to create a Story Map using the map you've just created.
 
 **Adding a Watercolor Basemap**
-If you would like to add a basemap reminiscent of hand drawn maps with watercolor washes, click the **Add** dropdown menu.
+
+* If you would like to add a basemap reminiscent of hand drawn maps with watercolor washes, click the **Add** dropdown menu.
 * Then select **Search for Layers**.
+* ![image of interface for searching for layers](SearchForLayers.png)
 * Using the pull down menu next to **My Content**, select **ArcGis Online**.
+* ![image of interface for pulling down menu](PullDownMenu.png)
 * In the search bar, type in **Stamen Watercolor**.
+* ![image of interface for typing in stamen watercolor](SearchForStamen.png)
 * Click on the panel, scroll down and click on **Use as Basemap**
 * You should now see your watercolor map.
 
