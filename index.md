@@ -1,7 +1,7 @@
 ## About
-Last Updated June 2018   
+Last Updated May 2019   
 Created by [Paul Vieth](http://paulkelleyvieth.org/)   
-Updated by [Sarah Clayton](https://github.com/sclayton29) and Chelsea Smith-Antonides 
+Updated by [Sarah Clayton](https://github.com/sclayton29) and Chelsea Smith-Antonides and Tressa Patten
 
 ### Note 
 This tutorial will include the basics of ArcGIS online but primarily focus on Story Maps. If you would like a more detailed look at ArcGIS online, please see our [ArcGIS Online tutorial](https://oudsl.github.io/ArcGISOnline/). 
@@ -95,6 +95,23 @@ On the left side of your map, you should see some options about how to display t
 
 This is the process for making any map in ArcGIS online. From here we will go on to create a Story Map using the map you've just created.
 
+**Adding a Watercolor Basemap**
+
+* Would you like to add a basemap reminiscent of hand drawn maps with watercolor washes?
+* Click the **Add** dropdown menu.
+* Then select **Search for Layers**.
+
+ ![image of interface for searching for layers](SearchForLayers.png)
+* Using the pull down menu next to **My Content**, select **ArcGis Online**.
+
+ ![image of interface for pulling down menu](PullDownMenu.png)
+* In the search bar, type in **Stamen Watercolor**.
+
+ ![image of interface for typing in stamen watercolor](SearchForStamen.png)
+* Click on the panel, scroll down and click on **Add to Map** or **Use as Basemap**
+* You should now see your watercolor map.
+
+
 ## Story Maps
 ### Initializing Story Maps
 
@@ -177,7 +194,7 @@ After you've created your starting view for your Main Stage (map) and your Side 
 
 ![ArcGIS Story Map Journal Add Section Organize Button](/images/storymap10.PNG)
 
-* Click **Add Section**
+* Click **Add Section**.
 
 Each new section involves not just creating Side Panel content for that section, but changing the display properties of the Main Stage. So when you add a section, you'll see this dialog box:
 
@@ -206,6 +223,19 @@ Here's an example of the combined functionality of a section in the side panel (
 
 
 ***Now all you have to do is string sections together to create a larger multimodal narrative -- all rooted in the geographic relationships of the spatial data and the multimedia qualitative anecdotes that make that data meaningful...***
+
+
+**Adding an Optional Table of Contents**
+
+* Click **Add Section**
+* Select what you want your audience to see on the Main Stage: a map, an image, video, or web page, and fill in your title and alternative text.
+* You'll then be asked to populate your Side Panel. 
+* Write the name of the first section, then highlight the text.
+* In the box called **Story Actions**, move over to the fourth option, an up and down arrow.
+* This will open a box called **Navigate to Another Section**.
+* From the pull down menu, select the appropriate section and hit **Apply**, and **Save**.
+* Continue until all of your sections are represented.
+
 
 When you're all done, you can share a link to your story map or embed it into a website.
 
